@@ -1,0 +1,4 @@
+DIO RESOLUSI
+- Konsisten belajar minimal 1 hari 1 materi
+- Terus latihan CSS
+- Mulai belajar JS
