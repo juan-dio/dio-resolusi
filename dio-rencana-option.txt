@@ -1,3 +1,6 @@
 RENCANA OPTION
 - PHP
 - Bootstrap
+- Javascript
+  * ES6
+  * Framework
